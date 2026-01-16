@@ -106,9 +106,3 @@ user.delete_task(1)
 -   Learn safe SQL execution
 -   Work with environment variables
 
-------------------------------------------------------------------------
-
-## 👨‍💻 Author
-
-Georhii\
-Junior Python Backend Developer (in progress 🚀)
